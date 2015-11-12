@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="144px" height="144px" viewBox="-27 -9 144 144"
+	 overflow="visible" enable-background="new -27 -9 144 144" xml:space="preserve">
+<defs>
+</defs>
+<polygon fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" points="87.5,122.5 2.5,122.5 2.5,2.5 61,2.5 
+	87.5,30.666 "/>
+<polyline fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" points="57.5,3 57.5,33.5 88,33.5 "/>
+<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="15" y1="51.5" x2="76" y2="51.5"/>
+<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="15" y1="67.5" x2="76" y2="67.5"/>
+<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="15" y1="84.5" x2="76" y2="84.5"/>
+<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="15" y1="100.5" x2="76" y2="100.5"/>
+</svg>

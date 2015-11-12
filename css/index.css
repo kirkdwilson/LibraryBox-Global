@@ -1,0 +1,148 @@
+*{
+   margin:0;
+   padding:0;
+}
+html {
+  background: radial-gradient(#FFFFFF, #B4B4B4);
+  color: #3F3F3F;
+  font-family:Arial, Helvetica, sans-serif;
+}
+html, body{
+  min-height: 100%;
+}
+#main_content{
+margin-right: 300px;
+font-size: 14px;
+min-width: 200px;
+}
+.main_content{
+box-shadow: 5px 5px 25px #333333; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:5px;
+margin: 15px;
+padding: 15px;
+}
+.menuentry{
+  display: block;
+  overflow: hidden;
+  text-decoration: none;
+}
+#navbars{
+  position: absolute;
+  right: 0px;
+  top: 0;
+  width: 300px;
+  height: 750px;
+  overflow: hidden;
+}
+#navbar{
+  right: 150px;
+  top: 0;
+  position: absolute;
+  width: 150px;
+  height: 750px;
+}
+#navbar2{
+position: absolute;
+right: 0px;
+top: 0;
+width: 150px;
+height: 750px;
+}
+#headbar {
+background-color: #D3D3D3;
+overflow: hidden;
+}
+#headbar2{
+width: 150px;
+height: 154px;
+background-color: #D3D3D3;
+}
+#headbar :hover {
+transform: scale(1.1);
+transition: 0.3s;
+}
+#textbutton2 {
+  background-color: #8DE1EA;
+  width: 150px;
+  height: 154px;
+}
+#textbutton {
+background-color: #8DE1EA;
+}
+#textbutton2text{
+  color: white;
+  font-size: 50px;
+  padding: 50px 5px 0 15px;
+}
+#textbutton :hover {
+background-color: #2097B3;
+transform: scale(1.1);
+transition: 0.3s;
+}
+#audiobutton {
+background-color: #97DFB9;
+}
+#audiobutton2 {
+background-color: #97DFB9;
+width: 150px;
+height: 154px;
+}
+#audiobutton2text{
+  color: white;
+  font-size: 50px;
+  padding: 50px 5px 0 15px;
+}
+#audiobutton :hover {
+background-color: #1A975B;
+transform: scale(1.1);
+transition: 0.3s;
+}
+#videobutton {
+background-color: #E2B392;
+}
+#videobutton2 {
+background-color: #E2B392;
+width: 150px;
+height: 154px;
+}
+#videobutton2text{
+color: white;
+font-size: 50px;
+padding: 50px 5px 0 15px;
+}
+#videobutton :hover {
+background-color: #AB6B3B;
+transform: scale(1.1);
+transition: 0.3s;
+}
+#appbutton {
+background-color: #B4A1CF;
+}
+#appbutton2 {
+background-color: #B4A1CF;
+width: 150px;
+height: 154px;
+}
+#appbutton2text{
+color: white;
+font-size: 50px;
+padding: 50px 5px 0 15px;
+}
+#appbutton :hover {
+background-color: #6A5B79;
+transform: scale(1.1);
+transition: 0.3s;
+}
+#button{
+  x-height: 1;
+  box-shadow: 5px 5px 25px #333333; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:5px;
+  position: fixed;
+  margin-right: 15px;
+  right: 0px;
+  background: #808080;
+  opacity: 0.4;
+}
+#button :hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+  -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:5px;
+}

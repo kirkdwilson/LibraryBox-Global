@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="211px" height="196px" viewBox="-24.441 -8.835 211 196"
+	 overflow="visible" enable-background="new -24.441 -8.835 211 196" xml:space="preserve">
+<defs>
+</defs>
+<text transform="matrix(1 0 0 1 0 144.1436)" fill="#6B5C7A" font-family="'TimesNewRomanPSMT'" font-size="37.5335">LIBRARY</text>
+<text transform="matrix(1 0 0 1 96.0244 171.9473)" fill="#6B5C7A" font-family="'GillSans-Light'" font-size="37.5335">box</text>
+<polygon opacity="0.7" fill="#AD6C3B" points="53.559,36.14 53.559,66.165 83.785,66.165 "/>
+<polygon opacity="0.5" fill="#1F99B5" points="22.559,8.583 22.559,8.673 13.559,0 13.559,73.153 46.559,106.187 46.559,82.248 
+	46.559,73.343 46.559,31.473 "/>
+<polygon opacity="0.5" fill="#19995C" points="15.15,73.165 87.384,73.165 111.242,96.165 111.166,96.165 120.302,106.165 
+	96.447,106.165 87.571,106.165 45.846,106.165 "/>
+<polygon fill="#6B5C7A" points="46.559,106.37 46.559,73.165 13.632,73.165 "/>
+</svg>
