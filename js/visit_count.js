@@ -17,7 +17,7 @@ function parse_date(string) {
 
 var $j_v = jQuery.noConflict();
 
-$j_v.getJSON("/vc_display.php?sortBy=day&output_type=json&top_max=10" , function(data) {
+$j_v.getJSON("/vc_display.php?sortBy=day&output_type=json&top_max=20" , function(data) {
     var visit_count = $j_v('p#visitors-top-statspage');
     var tbl_body = '<ul style="list-style: none; -webkit-padding-start:0px;">';
     $j_v.each(data, function() {
